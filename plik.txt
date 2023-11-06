@@ -72,7 +72,7 @@ Zdalne repozytorium:
     pull -  wykonanie zmian pobranych fetchem
     merge origin/master - synchronizacja zdalnego repozytorium z lokalnym w razie potrzeby
 
-
+cos
 do edycji:
     Fork - kopia głównego repozytorium. Gdy nie możemy commitować w głównym repo
     clone user@linkdoforka user - tworzymy fork w głównym repo na gitHub - podajemy link do niego
